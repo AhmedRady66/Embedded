@@ -16,7 +16,7 @@ This repository contains a simple embedded repository implemented in the C progr
 To build the project, follow these steps:
 
 1. Navigate to the root directory of the repository.
-1. Compile .C files using gcc command to run the project
+1. Compile .C files using gcc command to run the project.
 
 This will compile the source code files and generate an executable file.
 
